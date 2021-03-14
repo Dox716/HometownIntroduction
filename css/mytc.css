@@ -1,0 +1,23 @@
+@charset "utf-8";
+body{
+	font-family:"微软雅黑";
+	font-size:14px;}
+
+img {
+	float: right;
+	margin-right:5px;
+	margin-left:10px;
+}
+
+li {
+	list-style-type:none;
+}
+li a{
+	text-decoration:none;
+}
+li a:link , li a:visited {
+	color:#333;
+}
+li a:hover {
+	color:blue;
+}
